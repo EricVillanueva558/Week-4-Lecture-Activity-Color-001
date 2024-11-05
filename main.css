@@ -1,13 +1,13 @@
 /* Colors */
 :root {
-    --primary-color: #f4b400; /* Gold */
-    --secondary-color: #3d5a80; /* Deep Ocean Blue */
-    --accent-color: #e63946; /* Coral Red */
-    --background-color: #f0f8ff; /* Light Sky Blue */
-    --nav-bg-color: #1f3b5b; /* Navy Blue */
-    --button-hover-color: #ffbe0b; /* Bright Yellow */
-    --link-hover-color: #9c1f1f; /* Deep Coral */
-    --text-color: #333333; /* Dark Text */
+    --primary-color: #f4b400; 
+    --secondary-color: #3d5a80; 
+    --accent-color: #e63946; 
+    --background-color: #f0f8ff; 
+    --nav-bg-color: #1f3b5b; 
+    --button-hover-color: #ffbe0b; 
+    --link-hover-color: #9c1f1f; 
+    --text-color: #333333; 
 }
 
 /* Body Styling */
